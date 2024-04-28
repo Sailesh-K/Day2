@@ -1,0 +1,18 @@
+Window:
+
+1. The global object representing the browser's entire environment. It provides access to features like the browser's history, location, alerts, and other core functionality.
+
+2. It is the top-level object in the browser's context. Everything that happens within the browser (like the current tab or window) is accessible through the window object.
+
+3. It is used for global operations, such as controlling the browser's location, handling events related to the whole window, or working with cookies and timers.
+
+---------------------------------------------------------------------------------------------
+
+Document:
+
+1. Represents the Document Object Model (DOM) for a webpage. It allows you to interact with the HTML content, like accessing elements, adding events, and modifying the structure of the page.
+
+2. This is a property of the window object, representing the webpage currently displayed. It provides methods and properties to manipulate the page's content and structure.
+
+3.  It focuses on interactions within the webpage's content, including manipulating elements, responding to DOM-specific events, and altering the structure of the page.
+	
